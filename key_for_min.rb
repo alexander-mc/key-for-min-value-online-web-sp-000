@@ -10,6 +10,6 @@ def key_for_min_value(name_hash)
   puts min_key
 end
 
-veggies = {:apple => -45, :banana => -44.5, :carrot => -44.9}
+names = {:blake => 500, :ashley => 2, :adam => 1}
 
 key_for_min_value(veggies)
