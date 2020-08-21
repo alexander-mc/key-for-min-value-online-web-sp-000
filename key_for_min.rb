@@ -7,7 +7,7 @@ def key_for_min_value(name_hash)
       min_key = key 
     end
   end
-  min_key
+  puts min_key
 end
 
 veggies = {:apple => -45, :banana => -44.5, :carrot => -44.9}
